@@ -49,8 +49,11 @@ Step6:Git push origin master
 
 ## Technologies used
 HTML5
+
 CSS
+
 markdown
+
 Bootstrap
 
 ### Contact Information
