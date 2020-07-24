@@ -55,6 +55,8 @@ CSS
 markdown
 
 Bootstrap
+## Live link
+https://omarion3698.github.io/akan-names-omar/.
 
 ### Contact Information
 If you have any question or contributions, please email me at [omaribinbakarivic@gmail.com]
