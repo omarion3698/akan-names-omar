@@ -30,7 +30,7 @@ Step6:Git push origin master
 
   Step5:Select gender Input (example male output male)
 
-  Step6:Submit. (Input example, the program compares the inputs with the conditions set for the inputs eg if No input field is empty, the program executes else an alert to enter valid deatils.)
+  Step6:Submit. (Input example, the program compares the inputs with the conditions set for the inputs eg if No input field is empty, the program executes else an   alert to enter valid deatils.)
     
     #Conditions!
     0 < Date >= 31.
@@ -55,6 +55,9 @@ CSS
 markdown
 
 Bootstrap
+
+JavaScript
+ 
 ## Live link
 https://omarion3698.github.io/akan-names-omar/.
 
